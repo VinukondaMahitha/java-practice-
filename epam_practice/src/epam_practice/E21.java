@@ -11,5 +11,4 @@ System.out.println(i+"is negative");
 else
 System.out.println(i+"is neither positive nor negative");
 }
-
 }
